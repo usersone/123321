@@ -1,0 +1,15 @@
+<html>
+<body>
+
+<h1>我的第一个标题</h1>
+<h2>我的第二个标题</h2>
+<h3>我的第二个标题</h3>
+<h4>我的第二个标题</h4>
+<h5>我的第二个标题</h5>
+<p>我的第一个段落。asdasdasdasdasdasdadadasd</p>  
+<img src="w3school.jpg" width="104" height="142" />
+<a href="http://www.baidu.com.cn">This is a link</a>
+<p>我的第一个段落。asdasdasdasdasdasdadadasd</p>
+<p>我的第一个段落。asdasdasdasdasdasdadadasd</p>
+</body>
+</html>
